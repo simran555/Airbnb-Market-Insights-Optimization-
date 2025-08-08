@@ -1,4 +1,4 @@
-#Airbnb Data Analysis and Predictive Modeling# 
+<b> Airbnb Data Analysis and Predictive Modeling </b>
 
 This project contains an in-depth analysis of an Airbnb dataset, exploring various aspects of listings, hosts, and guest behavior. The project aims to provide insights into market trends and build a predictive model for listing prices.
 
@@ -10,6 +10,7 @@ The project involved a comprehensive data analysis workflow, including:
 . Designing and implementing a star schema for data warehousing.
 
 . Exploratory data analysis (EDA) to uncover key trends and patterns.
+<img width="1794" height="811" alt="image" src="https://github.com/user-attachments/assets/4516ebc5-5744-4b66-b3c8-2d5805a024f1" />
 
 . Developing predictive models to forecast listing performance.
 
@@ -54,10 +55,17 @@ Exploratory Data Analysis (EDA): A variety of visualizations were created to und
 
 
 . A horizontal bar chart identifying timeshares as the most expensive property type and houses as the least expensive.
+<img width="1243" height="732" alt="image" src="https://github.com/user-attachments/assets/f361177b-1e2e-4f01-bf64-d8ba7ac2fc66" />
+
 
 . A histogram revealing that there are more affordable listings than expensive ones.
+<img width="1052" height="651" alt="image" src="https://github.com/user-attachments/assets/015dbd11-dc1d-4d41-9343-b1083021fb93" />
+
+
 
 . A donut chart indicating that apartments are the most common property type.
+<img width="862" height="738" alt="image" src="https://github.com/user-attachments/assets/18fc7553-b9f2-43e0-a958-c80e14e3cc20" />
+
 
 3.<b> Predictive Modeling </b>
 Three different regression models were implemented and compared to predict listing performance:
